@@ -1,0 +1,6 @@
+{
+  "name": "Desa Cikidang",
+  "description": "Portal Informasi, Profil Resmi, Galeri Kegiatan, dan Layanan Publik Desa Cikidang, Cilongok, Banyumas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
